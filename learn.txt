@@ -6,3 +6,5 @@ God is about to do something great in Lawrence's life.
 Lawrence is adding another text for the sake of this feature branch.
 
 I just added this new line.
+
+I am sending this update from my local repo to my remote repo.
